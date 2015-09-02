@@ -8,6 +8,7 @@ http.get(targetUrl, function(response) {
 	response.setEncoding("utf8")
 	response.on("data", function (data) {
 		// var encodedData = 
+		console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
 		console.log(data)
 	})
 });
