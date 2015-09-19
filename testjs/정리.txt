@@ -1,0 +1,11 @@
+* 자바스크립트에 포함된 9개의 객체 생성자
+	Number()
+	String()
+	Boolean()
+	Object()
+	Array()
+	Function()
+	Date()
+	RegExp()
+	Error()
+
